@@ -34,9 +34,4 @@ https://mindmate-journal.netlify.app/
 
 ---
 
-## 🚀 Getting Started
 
-### 🔧 Clone the Repo
-```bash
-git clone https://github.com/AvneetX25/Mindmate.git
-cd Mindmate
