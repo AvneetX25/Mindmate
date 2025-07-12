@@ -22,7 +22,7 @@ Mindmate is a full-stack mental wellness application designed to help users trac
 - Gain insight into emotional patterns with real-time charts.
 
 ### 🌐 Live Demo
-[🔗 Visit Live App](https://your-frontend-live-link.netlify.app)
+[🔗 Visit Live App]((https://mindmate-journal.netlify.app/)
 
 ---
 
